@@ -103,7 +103,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
 * I’ll do my best to provide growth and learning opportunities, it’ll be up to you to seize them. Let’s work together on this.
 * At the end of the day, it is your career. You set your goals. You set your priorities. Let me know how I can help you achieve them.
 * I will sometimes put you in situations where you feel uncomfortable from a skill/experience-fit perspective. I do this on purpose because I think it helps you learn the fastest. 
-* Three dimensions are required for people to continue to give you feedback:
+* [Three dimensions are required](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c) for people to continue to give you feedback:
     * Safety should be high (no fear of retaliation)
     * Effort should be low (no rebuttals)
     * Benefit should be high (positive results)
