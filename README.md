@@ -1,14 +1,12 @@
 # max-README
 A crash course on what to expect if I'm your tech lead
 
-
-
-## purpose of the document
+## Purpose of the document
 
 * help you understand me so we can work together more effectively
 * helps me identify and refine my thoughts and values
 
-## about me
+## About me
 
 * personal background:
     * from Bethesda, MD
@@ -19,12 +17,12 @@ A crash course on what to expect if I'm your tech lead
 * maker
 * visual learner
 
-## my goal
+## My goal
 
 * Empowered and driven team: I can take off for a month and it shouldmake a difference (seriously)
 * Build impactful and sustainable data-driven capabilities
 
-## my role / responsibilities 
+## My role / responsibilities 
 
 * solution engineer (i.e., developing new analytics capabilities)
     * like to do
@@ -54,7 +52,7 @@ A crash course on what to expect if I'm your tech lead
     * Attract, retain and grow high performing individuals and teams.
     * Foster a culture of passion, innovation and collaboration leading to a track record for building quality products.
 
-## principles and values
+## Principles and values
 
 * trust, respect, honesty, and integrity
 * start with why. always understand why you’re doing something. If you’re not sure, ask. 
@@ -70,7 +68,7 @@ A crash course on what to expect if I'm your tech lead
 * Self reflection. Self reflection is an important part of growth. You’ll miss opportunities without it.
 * growth mindset
 
-## availability / work-life balance
+## Availability / work-life balance
 
 TLDR; Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
 
@@ -81,7 +79,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
     * I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
     * I try and stay unplugged when on PTO, with the exception of organizing email. Don’t expect a response from me though. If it’s urgent, call me.
 
-## how I can help you
+## How I can help you
 
 * Provide context and clarity
 * Provide another perspective
@@ -89,7 +87,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
 * Firefight
 * Other. Please let me know how else I can help.
 
-## how you can help me / basic expectations
+## How you can help me / basic expectations
 
 * Do amazing work. This is the expectation. Let me know if there is something preventing you from accomplishing this.
 * Come with solutions. Don’t just come with problems. come with possible solutions and a perspective on which you recommend and why.
@@ -99,7 +97,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
 * Disagree with me. The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos . I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine.
 * Tell me when I screw up. This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
 
-## your development / feedback protocol
+## Your development / feedback protocol
 
 * Your career is yours. You know best how you’d like to grow and in what areas. I can provide feedback and an outside perspective.
 * I’ll do my best to provide growth and learning opportunities, it’ll be up to you to seize them. Let’s work together on this.
@@ -117,22 +115,22 @@ TLDR; Very few things are more important than talking to you if you want to talk
 * Length, frequency, format and content is up to you. We’ll start with 30 minutes bi-weekly and then adjust from there.
 * The best 1:1s I’ve had have focused beyond the moment: Your career development, team strategy and opportunity, the greater Deloitte, etc. Feel free to come with a topic you’d like to discuss. I’d love it if you spent a few minutes beforehand preparing so that we can get the most of our time.
 
-## other things to know about me
+## Other things to know about me
 
 * socratic questions
 * pomodoro
 * meetings. I try to limit the amount of people in meetings to make them more productive and to maximize people’s focused time. If I didn’t invite you to a meeting, I was probably trying to let you focus on your work. It was not anything personal. If you feel you should be in a meeting that you’re not, just ask.
 
-## resources that have significantly shaped my perspective
+## Resources that have significantly shaped my perspective
 
-* The Rise of Superman: Decoding the Science of Ultimate Human Performance
-* Pyramid and the Plum Tree
+* [The Rise of Superman: Decoding the Science of Ultimate Human Performance](https://www.amazon.com/dp/B00BW54XVO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Pyramid and the Plum Tree](https://theprocessofcreativity.wordpress.com/2014/12/09/chapter-eighteen-pyramid-and-the-plum-tree/)
 
-## archive
+<!-- ## Archive
 
 * tips to help manage me
 * responsibilities
 * misc
 * my assumptions
 * meeting protocol
-* Average week
+* Average week -->
