@@ -30,7 +30,7 @@ To learn more about me and my experience, see [my website](http://maxmelnick.com
 
 I've worn a lot of hats over the years, but the roles I focus on these days to help build analytics capabilities are 1) solution engineer, 2) engineering manager, and 3) mentor and leader.
 
-* solution engineer (i.e., developing new analytics capabilities)
+* Solution engineer (i.e., developing new analytics capabilities)
     * Core strategic planning and business model design
     * Solution architecture
     * Tech sensing
@@ -76,7 +76,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
     * I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
     * I try and stay unplugged when on PTO, with the exception of organizing email. Don’t expect a response from me though. If it’s urgent, call me.
 
-## How I can help you?
+## How I can help you
 
 * Provide context and clarity
 * Provide another perspective
@@ -84,7 +84,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
 * Firefight
 * Other. Please let me know how else I can help.
 
-## How you can help me / basic expectations?
+## How you can help me / basic expectations
 
 * *Do amazing work.* This is the expectation. Let me know if there is something preventing you from accomplishing this.
 * *Come with solutions.* Don’t just come with problems. Think through some possible solutions and a perspective on which you recommend and why.
