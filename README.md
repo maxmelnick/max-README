@@ -30,17 +30,17 @@ To learn more about me and my experience, see [my website](http://maxmelnick.com
 
 I've worn a lot of hats over the years, but the roles I focus on these days to help build analytics capabilities are 1) solution engineer, 2) engineering manager, and 3) mentor / leader. Below are some example dimensions of each.
 
-* Solution engineer (i.e., developing new analytics capabilities)
+* _Solution engineer_ (i.e., developing new analytics capabilities)
     * Core strategic planning and business model design
     * Solution architecture
     * Tech sensing
     * Writing prototype code
-* Engineering manager (ops + optimizing existing capabilities)
+* _Engineering manager_ (ops + optimizing existing capabilities)
     * Help manage risk and quality
     * Debug critical issues
     * Manage cross-product collaboration
     * Manage cross project priorities and ensure we have the right skills on each
-* Mentor and leader (i.e., enabler of great work).
+* _Mentor and leader_ (i.e., enabler of great work).
     * Provide you feedback
     * Set context and clarity of goals/objectives
     * Set up teams for success and autonomy
