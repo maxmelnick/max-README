@@ -10,7 +10,7 @@ A crash course on what to expect if I'm your tech lead
 
 I'm born and raised in the DC area. I grew up in Bethesda, MD and currently live in DC. I studied Systems Engineering and minored in Economics and Engineering Business at UVA.
 
-My passion is building things and I'm a [maker](http://www.paulgraham.com/makersschedule.html) at heart. I enjoy creating analytics capabilities with my strong blend of technical and business skills. The majority of my experience focuses on technology product development, big data/graph analytics, solution architecture, enterprise architecture, and machine learning.
+My passion is building things! I'm a [maker](http://www.paulgraham.com/makersschedule.html) at heart. I enjoy creating analytics capabilities with my strong blend of technical and business skills. The majority of my experience focuses on technology product development, big data/graph analytics, solution architecture, enterprise architecture, and machine learning.
 
 Outside work I enjoy hanging with friends / family, sports / exercise, travel, cooking/eating, reading, listening to podcasts, and learning new things!
 
