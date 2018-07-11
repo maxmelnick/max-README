@@ -71,7 +71,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
 
 * _Communication:_ I strategically limit how much I check communications to allow time to focus. As such, please do not expect a response from me immediately. If you need to reach me, I respond to communications generally in this order or priority: in-person > call > txt > slack > skype > email
 * _Work hours:_
-    * I like to start work on the earlier side (7:30-8am) and leave on the earlier side (4-4:30pm) so I can go to the gym or hang out with friends. I’ll generally do some light work or technical coding in the evening.
+    * I like to start work on the earlier side (7:30-8am) and leave on the earlier side (4-4:30pm) so I can walk my dog, go to the gym, or hang out with friends. I’ll generally do some light work or technical coding in the evening.
     * I prefer not to have meetings before 9am so I can have some focused time to organize my day.
     * I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might Slack or email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
     * I try and stay unplugged when on PTO, with the exception of organizing email. Don’t expect a response from me though. If it’s urgent, call me.
