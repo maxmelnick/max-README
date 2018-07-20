@@ -79,8 +79,10 @@ TLDR; Very few things are more important than talking to you if you want to talk
 ## How I can help you
 
 * Provide context and clarity
+* Give you feedback (see below)
 * Provide another perspective
 * Be your cheerleader
+* Provide opportunities to grow
 * Firefight
 * Something else? Please let me know how else I can help.
 
