@@ -65,6 +65,13 @@ I've worn a lot of hats over the years, but the roles I focus on these days to h
 * Self reflection. It's an important part of growth. You’ll miss opportunities without it.
 * [Growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
 
+## Team environment I strive to cultivate
+
+* Impactful - we get stuff done that has value
+* Open - open lines of communication, honesty
+* Always learning and improving - learn and fail fast...a lot. Don't be afraid to fail. Be honest when something is a failure.
+* Fun
+
 ## Availability / work-life balance
 
 TLDR; Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
