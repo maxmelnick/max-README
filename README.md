@@ -1,5 +1,5 @@
 # max-README
-A crash course on what to expect if I'm your tech lead
+A crash course on what to expect if I'm your tech lead or manager.
 
 ## Purpose of the document
 
