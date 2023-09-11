@@ -30,7 +30,7 @@ To learn more about me and my experience, see [my website](http://maxmelnick.com
 
 I've worn a lot of hats over the years, but the roles I focus on these days to help build analytics capabilities are 1) solution engineer, 2) engineering manager, and 3) mentor / leader. Below are some example dimensions of each.
 
-* _Solution engineer_ (i.e., developing new analytics capabilities)
+* _Solution engineer_ (i.e., developing new technical capabilities)
     * Core strategic planning and business model design
     * Solution architecture
     * Tech sensing
@@ -76,9 +76,9 @@ I've worn a lot of hats over the years, but the roles I focus on these days to h
 
 TLDR; Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
 
-* _Communication:_ I strategically limit how much I check communications to allow time to focus. As such, please do not expect a response from me immediately. If you need to reach me, I respond to communications generally in this order or priority: in-person > call > txt > slack > skype > email
+* _Communication:_ I strategically limit how much I check communications to allow time to focus. As such, please do not expect a response from me immediately. If you need to reach me, I respond to communications generally in this order or priority: in-person > call > txt > teams > email
 * _Work hours:_
-    * I like to start work on the earlier side (7:30-8am) and leave on the earlier side (4-4:30pm) so I can walk my dog, go to the gym, or hang out with friends. I’ll generally do some light work or technical coding in the evening.
+    * I like to start work on the earlier side and leave on the earlier side so I can walk my dog, go to the gym, or hang out with friends. I’ll generally do some light work or technical coding in the evening.
     * I prefer not to have meetings before 9am so I can have some focused time to organize my day.
     * I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might Slack or email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
     * I try and stay unplugged when on PTO, with the exception of organizing email. Don’t expect a response from me though. If it’s urgent, call me.
