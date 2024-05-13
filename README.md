@@ -1,5 +1,5 @@
 # max-README
-A crash course on what to expect if I'm your tech lead or manager.
+A crash course on what to expect if I'm your tech lead or engineering manager.
 
 ## Purpose of the document
 
@@ -31,39 +31,47 @@ To learn more about me and my experience, see [my website](http://maxmelnick.com
 I've worn a lot of hats over the years, but the roles I focus on these days to help build analytics capabilities are 1) solution engineer, 2) engineering manager, and 3) mentor / leader. Below are some example dimensions of each.
 
 * _Solution engineer_ (i.e., developing new technical capabilities)
-    * Core strategic planning and business model design
-    * Solution architecture
-    * Tech sensing
-    * Writing prototype code
-* _Engineering manager_ (ops + optimizing existing capabilities)
-    * Help manage risk and quality
-    * Debug critical issues
-    * Manage cross-product collaboration
-    * Manage cross project priorities and ensure we have the right skills on each
-* _Mentor and leader_ (i.e., enabler of great work).
+    * Solution architecture design
+    * Technology research and evaluation
+    * Prototyping and proof-of-concept development
+* _Engineering manager_
+    * Strategic planning
+    * Risk and quality management
+    * Incident response and issue resolution
+    * Cross-team and cross-project coordination
+    * Resource planning and allocation
+* _Mentor and leader_ 
     * Provide you feedback
-    * Set context and clarity of goals/objectives
-    * Set up teams for success and autonomy
-    * Collect and share context from across the broader organization
-    * Attract, retain and grow high performing individuals and teams
-    * Foster a culture of passion, innovation and collaboration leading to a track record for building high quality capabilities
+    * Setting clear goals and objectives
+    * Enabling team autonomy and growth
+    * Sharing organizational context and insights
+    * Attracting, retaining, and developing talent
+    * Cultivating a culture of passion, innovation, and collaboration
 
 ## Principles and values
 
-* Trust, respect, honesty, and integrity
-* [Start with why](https://www.amazon.com/dp/B002Q6XUE4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). Always understand why you’re doing something. If you’re not sure, ask.
-* Pictures and visuals communicate more effectively than words
-* Manage to flow states (i.e., being in "the zone"). Three main criteria for being in a flow state are...
-    * Clear goals
-    * Quick feedback loops
-    * Right challenge:skill ratio
-* Iterate and learn fast. Figure out how to maximize "information gain." What are the biggest risks and what actions will help you learn the most?
-* Priority. Priority. Priority. If priorities are not clear, we need to talk.
-* Application over theory
-* Show me the data. Data driven-decision making over instinct.
-* Bias towards action. Analysis and debate are often valuable, but I believe simply starting is the best way to learn and make progress.
-* Self reflection. It's an important part of growth. You’ll miss opportunities without it.
-* [Growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+### Purpose and Clarity
+- [Start with why](https://www.amazon.com/dp/B002Q6XUE4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - understand the purpose behind your work
+- Set clear goals and priorities
+
+### Learning and Growth
+- Embrace a [growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+- Iterate quickly and learn from failures
+- Prioritize application over theory
+
+### Communication and Collaboration
+- Use visuals to communicate effectively
+- Foster open and honest communication
+- Respect, trust, and integrity
+
+### Decision Making 
+- Data-driven decision making
+- Seek quick feedback loops
+- Right challenge-to-skill balance
+
+### Execution
+- Bias toward action over excessive analysis
+- Maximize impact and value creation
 
 ## Team environment I strive to cultivate
 
@@ -80,7 +88,7 @@ TLDR; Very few things are more important than talking to you if you want to talk
 * _Work hours:_
     * I like to start work on the earlier side and leave on the earlier side so I can walk my dog, go to the gym, or hang out with friends. I’ll generally do some light work or technical coding in the evening.
     * I prefer not to have meetings before 9am so I can have some focused time to organize my day.
-    * I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might Slack or email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
+    * I work a bit on the weekends. This is my choice. I do not expect that you are going to work on the weekend. I might message or email you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
     * I try and stay unplugged when on PTO, with the exception of organizing email. Don’t expect a response from me though. If it’s urgent, call me.
 
 ## How I can help you
@@ -95,13 +103,20 @@ TLDR; Very few things are more important than talking to you if you want to talk
 
 ## How you can help me / basic expectations
 
-* *Do amazing work.* This is the expectation. Let me know if there is something preventing you from accomplishing this.
-* *Come with solutions.* Don’t just come with problems. Think through some possible solutions and a perspective on which you recommend and why.
-* *Ask for clarification.* When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
-* *Communicate how you’re feeling.* I’d rather know you’re stressed or conflicted and help you work through it than make you battle with it internally.
-* *Let me know if you can’t do something.* One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
-* *Disagree with me.* The best solutions come from a healthy level of debate. I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine.
-* *Tell me when I screw up.* This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
+### Take Initiative
+- Bring forward potential solutions, not just problems
+- Seek clarification when expectations are ambiguous
+- Communicate proactively if you cannot meet a commitment
+
+### Foster Transparency
+- Be open about your workload, stress levels, or conflicts
+- Challenge ideas respectfully through healthy debate
+- Provide candid feedback if I fall short
+
+### Drive Your Growth
+- Own your development and career progression
+- Actively pursue learning and growth opportunities
+- Clearly articulate your goals and priorities
 
 ## Your development / feedback protocol
 
@@ -123,7 +138,6 @@ TLDR; Very few things are more important than talking to you if you want to talk
 ## Other things to know about me
 
 * _[Socratic questions](https://en.wikipedia.org/wiki/Socratic_questioning)._ At times I'll ask you open-ended questions to get your input instead of directing you to do something. Sometimes it will feel awkwark and frustruation. I do it to help you learn.
-* _Pomodoro._ I like to use the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) for time management to help me focus. I generally try to focus on one thing for ~25 mins and then take ~5 min break, with a longer ~15 min break after every 4 cycles. You'll probably see me do some light stretching, hit some golf putts, or do something totally different during those breaks.
 * _Meetings._ I try to limit the amount of people in meetings to make them more productive and to maximize people’s focused time. If I didn’t invite you to a meeting, I was probably trying to let you focus on your work. It was not anything personal. If you feel you should be in a meeting that you’re not, just ask.
 
 ## Resources that have significantly shaped my perspective
