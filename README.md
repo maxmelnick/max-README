@@ -113,11 +113,6 @@ TLDR; Very few things are more important than talking to you if you want to talk
 - Challenge ideas respectfully through healthy debate
 - Provide candid feedback if I fall short
 
-### Drive Your Growth
-- Own your development and career progression
-- Actively pursue learning and growth opportunities
-- Clearly articulate your goals and priorities
-
 ## Your development / feedback protocol
 
 * Your career is yours. You know best how you’d like to grow and in what areas. I can provide feedback and an outside perspective.
